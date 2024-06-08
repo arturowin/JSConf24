@@ -1,0 +1,42 @@
+#JSConfAM24-ի հերթական խորացված թեման կներկայացնի Էրիկը ու կխոսի TypeScript-ի type-երի մասին, ինչ դեռ չգիտենք դրանց մասին ու ինչպես կարող ենք բարդագույն հաշվարկներ անել դրանց օգնությամբ։ 😉
+Կոնֆերանսի գլխավոր հովանավորներ՝ Adobe Armenia և Simply Technologies
+🔸 Erik Davtyan, Senior Platform Engineer at ATeams Inc.
+🔸 Topic: Logic with Advanced TypeScript Types
+🇦🇲 Speech Language: Armenian
+
+#JSConfAM24-ին ևս մի հետաքրքիր թեմա կներկայացնի Լիլիթը, ով կպատմի, թե ինչպես ձեր կոդը «լավագույնս ենթարկեք քննության», դե հասկացաք՝ խոսքը debugging-ի մասին է 😄
+Կոնֆերանսի գլխավոր հովանավորներ՝ Adobe Armenia և Simply Technologies
+🔸 Lilit Tadevosyan, Sr. Computer Scientist at Adobe
+🔸 Topic: Debugging with DevTools: Mastering the Detective Work
+🇦🇲 Speech Language: Armenian
+
+#JSConfAM24-ի հաջորդ խոսնակ Արթուրը կխոսի RAG մոտեցման մասին, որով հնարավոր է կապել LLM-ն ու Vector Search-ը իրար՝ ստեղծելով AI-ով ուժեղացված տարատեսակ ծրագրեր։ ⚡
+Կոնֆերանսի գլխավոր հովանավորներ՝ Adobe Armenia և Simply Technologies
+🔸 Arthur Arakelyan, Sr. Backend Software Engineer at Simply Technologies
+🔸 Topic: Node.js and GenAI: Deep Dive into the RAG Architecture
+🇦🇲 Speech Language: Armenian
+
+#JSConfAM24 խոսնակներից Վահեն կպատմի Rust-ի մասին 🙂
+Կոնֆերանսի գլխավոր հովանավորներ՝ Adobe Armenia և Simply Technologies
+🔸 Vahe Momjyan, Chief Software Officer at TACTUN
+🔸 Topic: Rust for JavaScript Programmers
+🇦🇲 Speech Language: Armenian
+
+#JSConfAM24 խոսնակներից է նաև մեր կոնֆերանսի համահիմնադիր Ռուբեն Մեսչյանը, ով կխոսի որակյալ ծրագրեր ստեղծելու տեխնոլոգիական կողմի մասին։
+Կոնֆերանսի գլխավոր հովանավորներ՝ Adobe Armenia և Simply Technologies
+🔸 Rouben Meschian, Software Engineer | Educator
+🔸 Topic: Programming Practices for Developing High-Quality Software
+🇦🇲 Speech Language: Armenian
+
+Իսկ #JSConfAM24-ի մեր հաջորդ խոսնակը՝ Արմենը կխոսի dependency injection ծրագրավորման տեխնիկայի մասին, կպատմի՝ տարբեր JS տեխնոլոգիաներում ինչպես է այն կիրառվել ու աշխատում։
+Միջոցառման գլխավոր հովանավորներ՝ Adobe Armenia և Simply Technologies
+Armen will talk about dependency injection, how it works and is used in different JS frameworks.💛
+🔸 Armen Vardanyan, GDE for Angular, Front-end Team Lead at VOLO
+🔸 Topic: Dependency Injection in JS Frameworks
+🇦🇲 Speech Language: Armenian
+
+Հանդիպում ենք հունիսի 9-ին՝ սովորելու, շփվելու և լավագույն ժամանակն անցկացնելու։
+
+JSConf - ի բանախոսներն են Դավիթ Կարապետյանը, Արփի Գրիգորյանը, Ռուբեն Մեսչյանը, Երիկ Դավթյանը, Արմեն Վարդանյանը, Վահե Մոմջյանը, Լիլիթ Թադևոսյանը
+
+JSConf - ի Կազմակերպիչներն են Ալեքսանդր Ադամյանը, Վարսեր Զաքարյանը, Գևորգ Հարությունըանը, Ռուբեն Մեսչյանը, Էդգար Մարուքյանը

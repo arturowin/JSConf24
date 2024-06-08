@@ -1,0 +1,18 @@
+#JSConfAM24 Agenda:
+11:00 - Registration
+11:40 - Opening Remarks
+12:00 - Armen Vardanyan: "Dependency Injection in JavaScript Frameworks"
+12:50 - Arthur Arakelyan: "Node.js and GenAI: Deep Dive into the RAG Architecture"
+13:25 - Lilit Tadevosyan: "Debugging with DevTools: Mastering the Detective Work"
+14:00 - Break
+14:15 - Davit Karapetyan: "Let's Not Get Hacked"
+14:45 - Break
+15:00 - Vahe Momjyan: "Rust for JavaScript Programmers"
+15:45 - Break
+16:15 - Arpi Grigoryan: "System Design Fundamentals"
+17:00 - Break
+17:15 - Erik Davtyan: "Logic with Advanced TypeScript Types"
+18:00 - Break
+18:15 - Rouben Meschian: "Programming Practices for Developing High-Quality Software"
+19:00 - Closing Remarks
+19:30 - Afterparty
