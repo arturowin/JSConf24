@@ -3,7 +3,7 @@ import OpenAI from "@/app/api/infrastructure/services/OpenAI";
 import EmbeddingRepository from "@/app/api/infrastructure/repositories/EmbeddingRepository";
 
 export default class SearchBehaviour {
-    public async vectorSearch(question: string) {
+    public async vectorSearch(question: string, kNearestNeighbors: number = 4) {
         const openAI = new OpenAI();
         const embeddingsRepository = new EmbeddingRepository();
         const collection = await embeddingsRepository.getEmbeddingsCollection();
@@ -15,7 +15,7 @@ export default class SearchBehaviour {
                 textKey: embeddingsRepository.textKey,
                 embeddingKey: embeddingsRepository.embeddingKey,
             });
-        return await vectorStore.similaritySearch(question, 4);
+        return await vectorStore.similaritySearch(question, kNearestNeighbors);
     }
 
 }
